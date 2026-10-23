@@ -1,0 +1,5 @@
+rfm_segment,customers,avg_recency,avg_frequency,avg_monetary,total_revenue,pct_customers,pct_revenue
+Champions,224,26.7,8.2,4098.3,918020.9,28.2,40
+Loyal,252,57.6,5.8,2356,593700.9,31.8,25.8
+At Risk,132,234.1,7.5,4341.2,573038.8,16.6,24.9
+Lost,185,355.7,4,1148.3,212440.2,23.3,9.2

@@ -1,0 +1,794 @@
+customer_id,customer_name,recency,frequency,monetary_value,r_score,f_score,m_score,rfm_score,rfm_total,rfm_segment
+AA-10315,Alex Avila,185,5,"$5,563.6",2,2,5,225,9,At Risk
+AA-10375,Allen Armold,20,9,"$1,056.4",5,5,2,552,12,Champions
+AA-10480,Andrew Allen,260,4,"$1,790.5",1,1,3,113,5,Lost
+AA-10645,Anna Andreadi,56,6,"$5,086.9",3,3,5,335,11,Loyal
+AB-10015,Aaron Bergman,416,3,$886.2,1,1,1,111,3,Lost
+AB-10060,Adam Bellavance,55,8,"$7,755.6",3,4,5,345,12,Loyal
+AB-10105,Adrian Barton,42,10,"$14,473.6",4,5,5,455,14,Champions
+AB-10150,Aimee Bixby,42,5,$966.7,4,2,2,422,8,Loyal
+AB-10165,Alan Barnes,26,8,"$1,113.8",5,4,2,542,11,Champions
+AB-10255,Alejandro Ballentine,167,9,$914.5,2,5,1,251,8,At Risk
+AB-10600,Ann Blume,51,4,"$1,515.9",4,1,2,412,7,Loyal
+AC-10420,Alyssa Crouse,233,3,$925.8,1,1,1,111,3,Lost
+AC-10450,Amy Cox,12,7,"$5,527.9",5,3,5,535,13,Champions
+AC-10615,Ann Chong,7,5,"$2,537.7",5,2,3,523,10,Loyal
+AC-10660,Anna Chung,283,5,$657.3,1,2,1,121,4,Lost
+AD-10180,Alan Dominguez,30,8,"$6,106.9",4,4,5,445,13,Champions
+AF-10870,Art Ferguson,42,7,"$2,052.9",4,3,3,433,10,Champions
+AF-10885,Art Foster,416,4,$861.6,1,1,1,111,3,Lost
+AG-10270,Alejandro Grove,279,5,"$2,582.9",1,2,3,123,6,Lost
+AG-10300,Aleksandra Gannaway,119,4,$367.6,2,1,1,211,4,Lost
+AG-10330,Alex Grayson,9,5,$661.0,5,2,1,521,8,Loyal
+AG-10390,Allen Goldenen,115,5,$201.0,2,2,1,221,5,Lost
+AG-10495,Andrew Gjertsen,79,8,"$2,356.9",3,4,3,343,10,Loyal
+AG-10525,Andy Gerbode,846,4,"$1,455.0",1,1,2,112,4,Lost
+AG-10675,Anna Gayman,98,7,"$3,489.0",3,3,4,334,10,Loyal
+AG-10765,Anthony Garverick,78,4,$170.6,3,1,1,311,5,Loyal
+AG-10900,Arthur Gainer,97,10,"$4,510.8",3,5,5,355,13,Loyal
+AH-10030,Aaron Hawkins,13,7,"$1,744.7",5,3,3,533,11,Champions
+AH-10075,Adam Hart,35,10,"$3,250.3",4,5,4,454,13,Champions
+AH-10120,Adrian Hane,61,7,"$1,735.5",3,3,2,332,8,Loyal
+AH-10195,Alan Haines,56,4,"$1,587.5",3,1,2,312,6,Loyal
+AH-10210,Alan Hwang,7,9,"$4,805.3",5,5,5,555,15,Champions
+AH-10465,Amy Hunt,231,5,"$2,495.4",1,2,3,123,6,Lost
+AH-10585,Angele Hood,22,4,$738.5,5,1,1,511,7,Loyal
+AH-10690,Anna Haberlin,411,12,"$7,888.3",1,5,5,155,11,At Risk
+AI-10855,Arianne Irving,14,10,"$4,375.8",5,5,5,555,15,Champions
+AJ-10780,Anthony Jacobs,76,7,"$4,867.3",3,3,5,335,11,Loyal
+AJ-10795,Anthony Johnson,167,7,"$4,501.4",2,3,5,235,10,At Risk
+AJ-10945,Ashley Jarboe,86,7,"$1,839.2",3,3,3,333,9,Loyal
+AJ-10960,Astrea Jones,75,3,$629.3,3,1,1,311,5,Loyal
+AM-10360,Alice McCarthy,29,5,$814.0,4,2,1,421,7,Loyal
+AM-10705,Anne McFarland,163,8,"$5,664.0",2,4,5,245,11,At Risk
+AO-10810,Anthony O'Donnell,502,1,$161.3,1,1,1,111,3,Lost
+AP-10720,Anne Pryor,42,8,"$1,638.6",4,4,2,442,10,Champions
+AP-10915,Arthur Prichep,99,10,"$3,323.6",3,5,4,354,12,Loyal
+AR-10345,Alex Russell,112,4,"$1,055.7",2,1,2,212,5,Lost
+AR-10405,Allen Rosenblatt,126,5,"$2,236.1",2,2,3,223,7,Lost
+AR-10510,Andrew Roberts,15,5,$264.9,5,2,1,521,8,Loyal
+AR-10540,Andy Reiter,7,6,"$6,608.5",5,3,5,535,13,Champions
+AR-10570,Anemone Ratner,535,1,$88.2,1,1,1,111,3,Lost
+AR-10825,Anthony Rawles,59,8,"$4,523.3",3,4,5,345,12,Loyal
+AS-10045,Aaron Smayling,89,7,"$3,050.7",3,3,4,334,10,Loyal
+AS-10090,Adam Shillingsburg,29,9,"$3,255.3",4,5,4,454,13,Champions
+AS-10135,Adrian Shami,42,2,$58.8,4,1,1,411,6,Loyal
+AS-10225,Alan Schoenberger,23,5,"$4,260.8",5,2,4,524,11,Champions
+AS-10240,Alan Shonely,193,7,$584.6,2,3,1,231,6,Lost
+AS-10285,Alejandro Savely,20,6,"$3,214.2",5,3,4,534,12,Champions
+AS-10630,Ann Steele,93,7,$833.4,3,3,1,331,7,Loyal
+AT-10435,Alyssa Tate,22,6,"$1,171.8",5,3,2,532,10,Loyal
+AT-10735,Annie Thurman,14,10,"$3,831.9",5,5,4,554,14,Champions
+AW-10840,Anthony Witt,21,4,$649.4,5,1,1,511,7,Loyal
+AW-10930,Arthur Wiediger,47,7,"$2,853.0",4,3,4,434,11,Champions
+AY-10555,Andy Yotov,15,4,$497.0,5,1,1,511,7,Loyal
+AZ-10750,Annie Zypern,161,6,"$1,622.0",2,3,2,232,7,Lost
+BB-10990,Barry Blumstein,106,5,$744.3,2,2,1,221,5,Lost
+BB-11545,Brenda Bowman,29,9,"$6,765.7",4,5,5,455,14,Champions
+BC-11125,Becky Castell,203,9,"$2,933.7",2,5,4,254,11,At Risk
+BD-11320,Bill Donatelli,34,12,"$5,718.5",4,5,5,455,14,Champions
+BD-11500,Bradley Drucker,36,6,"$4,411.2",4,3,5,435,12,Champions
+BD-11560,Brendan Dodson,279,2,$320.5,1,1,1,111,3,Lost
+BD-11605,Brian Dahlen,98,7,"$3,288.5",3,3,4,334,10,Loyal
+BD-11620,Brian DeCherney,70,6,"$1,538.1",3,3,2,332,8,Loyal
+BD-11635,Brian Derr,10,3,$582.7,5,1,1,511,7,Loyal
+BD-11725,Bruce Degenhardt,94,6,"$1,526.5",3,3,2,332,8,Loyal
+BD-11770,Bryan Davis,328,6,$658.5,1,3,1,131,5,Lost
+BE-11335,Bill Eplett,120,5,"$4,204.7",2,2,4,224,8,At Risk
+BE-11410,Bobby Elias,99,5,"$2,261.4",3,2,3,323,8,Loyal
+BE-11455,Brad Eason,255,6,"$1,727.7",1,3,2,132,6,Lost
+BF-10975,Barbara Fisher,92,7,$599.8,3,3,1,331,7,Loyal
+BF-11005,Barry Franz,40,4,"$1,333.9",4,1,2,412,7,Loyal
+BF-11020,Barry Franzosisch,75,8,"$2,888.5",3,4,4,344,11,Loyal
+BF-11080,Bart Folk,26,3,$273.0,5,1,1,511,7,Loyal
+BF-11170,Ben Ferrer,17,11,"$5,908.0",5,5,5,555,15,Champions
+BF-11215,Benjamin Farhat,66,4,"$1,585.2",3,1,2,312,6,Loyal
+BF-11275,Beth Fritzler,58,3,$792.0,3,1,1,311,5,Loyal
+BG-11035,Barry Gonzalez,29,8,"$2,799.0",4,4,4,444,12,Champions
+BG-11695,Brooke Gillingham,37,6,"$1,874.2",4,3,3,433,10,Champions
+BG-11740,Bruce Geld,58,6,"$1,006.4",3,3,2,332,8,Loyal
+BH-11710,Brosina Hoffman,24,8,"$6,255.4",5,4,5,545,14,Champions
+BK-11260,Berenike Kampe,78,6,$659.1,3,3,1,331,7,Loyal
+BM-11140,Becky Martin,308,4,"$11,789.6",1,1,5,115,7,At Risk
+BM-11575,Brendan Murry,101,6,$808.2,3,3,1,331,7,Loyal
+BM-11650,Brian Moss,34,11,"$7,294.2",4,5,5,455,14,Champions
+BM-11785,Bryan Mills,219,10,"$1,338.8",2,5,2,252,9,At Risk
+BN-11470,Brad Norvell,25,4,$265.3,5,1,1,511,7,Loyal
+BN-11515,Bradley Nguyen,10,5,"$1,459.3",5,2,2,522,9,Loyal
+BO-11350,Bill Overfelt,138,5,"$2,682.7",2,2,3,223,7,Lost
+BO-11425,Bobby Odegard,76,2,$130.8,3,1,1,311,5,Loyal
+BP-11050,Barry Pond,84,5,$983.4,3,2,2,322,7,Loyal
+BP-11095,Bart Pistole,18,12,"$2,442.0",5,5,3,553,13,Champions
+BP-11155,Becky Pak,90,6,"$1,697.9",3,3,2,332,8,Loyal
+BP-11185,Ben Peterman,2,9,"$3,675.9",5,5,4,554,14,Champions
+BP-11230,Benjamin Patterson,40,5,"$1,181.5",4,2,2,422,8,Loyal
+BP-11290,Beth Paige,13,7,"$2,475.2",5,3,3,533,11,Champions
+BS-11365,Bill Shonely,559,5,"$10,501.7",1,2,5,125,8,At Risk
+BS-11380,Bill Stewart,29,5,"$3,887.8",4,2,4,424,10,Champions
+BS-11590,Brendan Sweed,36,6,"$2,454.9",4,3,3,433,10,Champions
+BS-11665,Brian Stugart,583,3,"$3,288.1",1,1,4,114,6,Lost
+BS-11755,Bruce Stewart,2,7,"$2,562.4",5,3,3,533,11,Champions
+BS-11800,Bryan Spruell,266,2,$949.4,1,1,1,111,3,Lost
+BT-11305,Beth Thompson,337,5,"$2,567.7",1,2,3,123,6,Lost
+BT-11395,Bill Tyler,303,6,"$2,186.6",1,3,3,133,7,At Risk
+BT-11440,Bobby Trafton,561,4,$603.9,1,1,1,111,3,Lost
+BT-11485,Brad Thomas,660,2,$415.2,1,1,1,111,3,Lost
+BT-11530,Bradley Talbott,92,5,"$2,684.5",3,2,3,323,8,Loyal
+BT-11680,Brian Thompson,21,7,"$3,196.8",5,3,4,534,12,Champions
+BV-11245,Benjamin Venier,335,5,"$1,523.3",1,2,2,122,5,Lost
+BW-11065,Barry Weirich,213,3,$385.5,2,1,1,211,4,Lost
+BW-11110,Bart Watters,122,8,"$4,750.4",2,4,5,245,11,At Risk
+BW-11200,Ben Wallace,204,6,"$1,738.4",2,3,2,232,7,Lost
+CA-11965,Carol Adams,97,6,"$3,789.7",3,3,4,334,10,Loyal
+CA-12055,Cathy Armstrong,402,5,"$1,679.7",1,2,2,122,5,Lost
+CA-12265,Christina Anderson,57,9,"$2,648.3",3,5,3,353,11,Loyal
+CA-12310,Christine Abelman,14,4,"$1,422.0",5,1,2,512,8,Loyal
+CA-12775,Cynthia Arntzen,121,7,"$3,041.6",2,3,4,234,9,At Risk
+CB-12025,Cassandra Brandow,48,10,"$6,076.1",4,5,5,455,14,Champions
+CB-12415,Christy Brittain,27,8,"$1,949.2",5,4,3,543,12,Champions
+CB-12535,Claudia Bergmann,198,8,"$4,246.5",2,4,4,244,10,At Risk
+CC-12100,Chad Cunningham,458,6,"$1,771.0",1,3,3,133,7,At Risk
+CC-12145,Charles Crestani,107,7,"$2,471.7",2,3,3,233,8,At Risk
+CC-12220,Chris Cortes,21,12,"$3,913.4",5,5,4,554,14,Champions
+CC-12370,Christopher Conant,44,5,"$12,129.1",4,2,5,425,11,Champions
+CC-12430,Chuck Clark,1,10,"$2,870.1",5,5,4,554,14,Champions
+CC-12475,Cindy Chapman,40,9,"$1,659.4",4,5,2,452,11,Champions
+CC-12550,Clay Cheatham,28,3,$113.8,4,1,1,411,6,Loyal
+CC-12610,Corey Catlett,35,7,"$2,540.6",4,3,3,433,10,Champions
+CC-12670,Craig Carreira,30,7,"$2,269.7",4,3,3,433,10,Champions
+CC-12685,Craig Carroll,800,4,"$2,854.1",1,1,4,114,6,Lost
+CD-11920,Carlos Daly,41,5,"$2,034.0",4,2,3,423,9,Loyal
+CD-11980,Carol Darley,55,3,$639.8,3,1,1,311,5,Loyal
+CD-12280,Christina DeMoss,43,2,"$1,205.6",4,1,2,412,7,Loyal
+CD-12790,Cynthia Delaney,400,5,"$1,860.7",1,2,3,123,6,Lost
+CG-12040,Catherine Glotzbach,50,6,$904.5,4,3,1,431,8,Loyal
+CG-12520,Claire Gute,339,3,"$1,148.8",1,1,2,112,4,Lost
+CH-12070,Cathy Hwang,692,3,"$1,537.2",1,1,2,112,4,Lost
+CJ-11875,Carl Jackson,366,1,$16.5,1,1,1,111,3,Lost
+CJ-12010,Caroline Jumper,190,8,"$11,165.0",2,4,5,245,11,At Risk
+CK-12205,Chloris Kastensmidt,40,13,"$3,154.9",4,5,4,454,13,Champions
+CK-12325,Christine Kargatis,121,5,"$2,945.3",2,2,4,224,8,At Risk
+CK-12595,Clytie Kelty,44,11,"$2,372.8",4,5,3,453,12,Champions
+CK-12760,Cyma Kinney,83,9,"$1,582.1",3,5,2,352,10,Loyal
+CL-11890,Carl Ludwig,107,4,"$1,262.0",2,1,2,212,5,Lost
+CL-12565,Clay Ludtke,285,12,"$10,880.6",1,5,5,155,11,At Risk
+CL-12700,Craig Leslie,106,5,"$2,353.6",2,2,3,223,7,Lost
+CM-11815,Candace McMahon,132,6,"$1,673.9",2,3,2,232,7,Lost
+CM-11935,Carlos Meador,709,2,$565.4,1,1,1,111,3,Lost
+CM-12115,Chad McGuire,9,4,"$1,661.6",5,1,2,512,8,Loyal
+CM-12160,Charles McCrossin,27,6,"$2,533.3",5,3,3,533,11,Champions
+CM-12190,Charlotte Melton,9,6,"$1,475.1",5,3,2,532,10,Loyal
+CM-12235,Chris McAfee,386,5,"$2,305.7",1,2,3,123,6,Lost
+CM-12385,Christopher Martinez,38,4,"$8,954.0",4,1,5,415,10,Champions
+CM-12445,Chuck Magee,437,3,$288.0,1,1,1,111,3,Lost
+CM-12655,Corinna Mitchell,28,6,"$6,339.6",4,3,5,435,12,Champions
+CM-12715,Craig Molinari,1036,4,"$3,984.5",1,1,4,114,6,Lost
+CO-12640,Corey-Lock,550,5,"$1,300.1",1,2,2,122,5,Lost
+CP-12085,Cathy Prescott,83,8,"$5,402.3",3,4,5,345,12,Loyal
+CP-12340,Christine Phan,161,8,"$5,888.3",2,4,5,245,11,At Risk
+CR-12580,Clay Rozendal,58,4,"$2,148.9",3,1,3,313,7,Loyal
+CR-12625,Corey Roper,471,3,$475.9,1,1,1,111,3,Lost
+CR-12730,Craig Reiter,79,4,"$1,600.6",3,1,2,312,6,Loyal
+CR-12820,Cyra Reiten,86,3,"$1,397.9",3,1,2,312,6,Loyal
+CS-11845,Cari Sayre,92,5,"$1,279.0",3,2,2,322,7,Loyal
+CS-11860,Cari Schnelling,163,6,$537.6,2,3,1,231,6,Lost
+CS-11950,Carlos Soltero,26,11,"$3,036.6",5,5,4,554,14,Champions
+CS-12130,Chad Sievert,490,4,$884.6,1,1,1,111,3,Lost
+CS-12175,Charles Sheldon,233,5,$844.5,1,2,1,121,4,Lost
+CS-12250,Chris Selesnick,27,12,"$2,754.2",5,5,4,554,14,Champions
+CS-12355,Christine Sundaresam,7,11,"$3,202.2",5,5,4,554,14,Champions
+CS-12400,Christopher Schild,3,9,"$3,651.9",5,5,4,554,14,Champions
+CS-12460,Chuck Sachs,28,2,$550.6,4,1,1,411,6,Loyal
+CS-12490,Cindy Schnelling,425,4,"$1,077.2",1,1,2,112,4,Lost
+CS-12505,Cindy Stewart,59,6,"$5,690.1",3,3,5,335,11,Loyal
+CT-11995,Carol Triggs,97,8,"$3,241.9",3,4,4,344,11,Loyal
+CV-12295,Christina VanderZanden,255,5,"$2,830.6",1,2,4,124,7,At Risk
+CV-12805,Cynthia Voltz,6,9,"$2,370.3",5,5,3,553,13,Champions
+CW-11905,Carl Weiss,23,6,"$1,136.6",5,3,2,532,10,Loyal
+CY-12745,Craig Yedwab,61,8,"$2,900.0",3,4,4,344,11,Loyal
+DA-13450,Dianna Arnett,353,4,$156.8,1,1,1,111,3,Lost
+DB-12910,Daniel Byrd,22,8,"$2,171.6",5,4,3,543,12,Champions
+DB-12970,Darren Budd,242,5,"$2,839.2",1,2,4,124,7,At Risk
+DB-13060,Dave Brooks,17,7,"$4,531.7",5,3,5,535,13,Champions
+DB-13120,David Bremer,49,7,"$2,973.1",4,3,4,434,11,Champions
+DB-13210,Dean Braden,10,10,"$2,332.6",5,5,3,553,13,Champions
+DB-13270,Deborah Brumfield,54,8,"$4,655.9",4,4,5,445,13,Champions
+DB-13360,Dennis Bolton,265,5,"$1,081.5",1,2,2,122,5,Lost
+DB-13405,Denny Blanton,188,4,"$1,711.7",2,1,2,212,5,Lost
+DB-13555,Dorothy Badders,108,7,"$3,908.8",2,3,4,234,9,At Risk
+DB-13615,Doug Bickford,34,7,"$1,989.1",4,3,3,433,10,Champions
+DB-13660,Duane Benoit,13,7,"$1,155.2",5,3,2,532,10,Loyal
+DC-12850,Dan Campbell,38,9,"$3,336.2",4,5,4,454,13,Champions
+DC-13285,Debra Catini,24,5,"$1,174.6",5,2,2,522,9,Loyal
+DD-13570,Dorothy Dickinson,42,6,$269.5,4,3,1,431,8,Loyal
+DE-13255,Deanra Eno,720,5,"$2,550.9",1,2,3,123,6,Lost
+DF-13135,David Flashing,701,3,"$2,390.5",1,1,3,113,5,Lost
+DG-13300,Deirdre Greer,33,5,"$3,195.8",4,2,4,424,10,Champions
+DH-13075,Dave Hallsten,278,6,"$4,932.9",1,3,5,135,9,At Risk
+DH-13675,Duane Huffman,777,4,"$1,043.1",1,1,2,112,4,Lost
+DJ-13420,Denny Joy,638,4,"$2,012.5",1,1,3,113,5,Lost
+DJ-13510,Don Jones,49,8,"$2,501.7",4,4,3,443,11,Champions
+DJ-13630,Doug Jacobs,13,3,"$3,356.4",5,1,4,514,10,Loyal
+DK-12835,Damala Kotsonis,22,12,"$3,256.5",5,5,4,554,14,Champions
+DK-12895,Dana Kaydos,46,5,"$4,282.2",4,2,4,424,10,Champions
+DK-12985,Darren Koutras,8,5,"$1,687.0",5,2,2,522,9,Loyal
+DK-13090,Dave Kipp,43,7,"$2,650.6",4,3,3,433,10,Champions
+DK-13150,David Kendrick,11,2,$797.8,5,1,1,511,7,Loyal
+DK-13225,Dean Katz,11,9,"$4,802.4",5,5,5,555,15,Champions
+DK-13375,Dennis Kane,20,8,"$3,318.5",5,4,4,544,13,Champions
+DL-12865,Dan Lawera,101,8,"$1,503.1",3,4,2,342,9,Loyal
+DL-12925,Daniel Lacy,58,6,"$3,272.2",3,3,4,334,10,Loyal
+DL-13315,Delfina Latchford,23,8,"$1,458.3",5,4,2,542,11,Champions
+DL-13330,Denise Leinenbach,58,4,$585.0,3,1,1,311,5,Loyal
+DL-13495,Dionis Lloyd,77,8,"$3,539.3",3,4,4,344,11,Loyal
+DL-13600,Dorris Liebe,120,5,$755.6,2,2,1,221,5,Lost
+DM-12955,Dario Medina,115,7,"$1,322.0",2,3,2,232,7,Lost
+DM-13015,Darrin Martin,58,7,"$6,345.1",3,3,5,335,11,Loyal
+DM-13345,Denise Monton,23,8,"$4,074.5",5,4,4,544,13,Champions
+DM-13525,Don Miller,482,3,"$1,376.8",1,1,2,112,4,Lost
+DN-13690,Duane Noonan,218,7,"$2,139.8",2,3,3,233,8,At Risk
+DO-13435,Denny Ordway,134,9,"$1,300.0",2,5,2,252,9,At Risk
+DO-13645,Doug O'Connell,27,7,"$1,267.3",5,3,2,532,10,Loyal
+DP-13000,Darren Powers,127,9,"$1,050.6",2,5,2,252,9,At Risk
+DP-13105,Dave Poirier,7,8,"$2,215.0",5,4,3,543,12,Champions
+DP-13165,David Philippe,813,2,"$1,058.6",1,1,2,112,4,Lost
+DP-13240,Dean Percer,85,11,"$7,198.8",3,5,5,355,13,Loyal
+DP-13390,Dennis Pardue,359,9,"$5,480.7",1,5,5,155,11,At Risk
+DR-12880,Dan Reichenbach,4,9,"$6,528.0",5,5,5,555,15,Champions
+DR-12940,Daniel Raglin,51,8,"$8,350.9",4,4,5,445,13,Champions
+DS-13030,Darrin Sayre,94,4,"$1,762.2",3,1,3,313,7,Loyal
+DS-13180,David Smith,24,9,"$2,881.8",5,5,4,554,14,Champions
+DV-13045,Darrin Van Huff,20,5,"$1,119.5",5,2,2,522,9,Loyal
+DV-13465,Dianna Vittorini,30,6,"$3,341.6",4,3,4,434,11,Champions
+DW-13195,David Wiener,70,6,"$1,080.8",3,3,2,332,8,Loyal
+DW-13480,Dianna Wilson,218,5,"$5,271.6",2,2,5,225,9,At Risk
+DW-13540,Don Weiss,99,5,$344.1,3,2,1,321,6,Loyal
+DW-13585,Dorothy Wardle,243,7,"$1,204.9",1,3,2,132,6,Lost
+EA-14035,Erin Ashbrook,153,13,"$2,846.7",2,5,4,254,11,At Risk
+EB-13705,Ed Braxton,49,9,"$3,645.0",4,5,4,454,13,Champions
+EB-13750,Edward Becker,36,10,"$3,236.3",4,5,4,454,13,Champions
+EB-13840,Ellis Ballard,91,5,"$4,358.1",3,2,5,325,10,Loyal
+EB-13870,Emily Burns,101,10,"$2,767.2",3,5,4,354,12,Loyal
+EB-13930,Eric Barreto,162,5,$944.6,2,2,1,221,5,Lost
+EB-13975,Erica Bern,1,4,"$1,643.3",5,1,2,512,8,Loyal
+EB-14110,Eugene Barchas,114,6,"$3,071.1",2,3,4,234,9,At Risk
+EB-14170,Evan Bailliet,83,6,"$1,186.3",3,3,2,332,8,Loyal
+EC-14050,Erin Creighton,54,5,$461.9,3,2,1,321,6,Loyal
+ED-13885,Emily Ducich,136,8,"$3,484.9",2,4,4,244,10,At Risk
+EG-13900,Emily Grady,23,5,"$1,832.0",5,2,3,523,10,Loyal
+EH-13765,Edward Hooks,136,12,"$10,310.9",2,5,5,255,12,At Risk
+EH-13945,Eric Hoffmann,218,8,$684.2,2,4,1,241,7,Lost
+EH-13990,Erica Hackney,406,6,$826.0,1,3,1,131,5,Lost
+EH-14005,Erica Hernandez,3,7,"$1,219.5",5,3,2,532,10,Loyal
+EH-14125,Eugene Hildebrand,153,10,"$3,082.7",2,5,4,254,11,At Risk
+EH-14185,Evan Henry,106,6,$923.9,2,3,1,231,6,Lost
+EJ-13720,Ed Jacobs,303,4,"$2,162.2",1,1,3,113,5,Lost
+EJ-14155,Eva Jacobs,58,5,"$2,656.7",3,2,3,323,8,Loyal
+EK-13795,Eileen Kiefer,45,4,"$1,303.5",4,1,2,412,7,Loyal
+EL-13735,Ed Ludwig,78,2,$124.3,3,1,1,311,5,Loyal
+EM-13810,Eleni McCrary,133,5,"$2,567.0",2,2,3,223,7,Lost
+EM-13825,Elizabeth Moffitt,56,8,"$2,339.6",3,4,3,343,10,Loyal
+EM-13960,Eric Murdock,152,5,$933.7,2,2,1,221,5,Lost
+EM-14065,Erin Mull,48,4,$229.0,4,1,1,411,6,Loyal
+EM-14095,Eudokia Martin,114,4,"$1,041.0",2,1,2,212,5,Lost
+EM-14140,Eugene Moren,49,6,"$4,588.4",4,3,5,435,12,Champions
+EM-14200,Evan Minnotte,159,3,$366.8,2,1,1,211,4,Lost
+EN-13780,Edward Nazzal,288,4,"$2,199.4",1,1,3,113,5,Lost
+EP-13915,Emily Phan,13,17,"$5,478.1",5,5,5,555,15,Champions
+ER-13855,Elpida Rittenbach,422,3,"$1,245.8",1,1,2,112,4,Lost
+ES-14020,Erica Smith,41,5,"$3,510.5",4,2,4,424,10,Champions
+ES-14080,Erin Smith,29,9,"$4,657.9",4,5,5,455,14,Champions
+FA-14230,Frank Atkinson,98,7,"$2,984.1",3,3,4,334,10,Loyal
+FC-14245,Frank Carlisle,71,7,"$3,418.7",3,3,4,334,10,Loyal
+FC-14335,Fred Chung,185,7,"$3,889.4",2,3,4,234,9,At Risk
+FG-14260,Frank Gastineau,35,7,"$1,383.1",4,3,2,432,9,Loyal
+FH-14275,Frank Hawley,38,10,"$4,256.3",4,5,4,454,13,Champions
+FH-14350,Fred Harton,213,4,"$2,271.3",2,1,3,213,6,Lost
+FH-14365,Fred Hopkins,6,8,"$6,987.2",5,4,5,545,14,Champions
+FM-14215,Filia McAdams,8,10,"$2,456.6",5,5,3,553,13,Champions
+FM-14290,Frank Merwin,37,9,"$3,736.2",4,5,4,454,13,Champions
+FM-14380,Fred McMath,146,9,"$2,523.3",2,5,3,253,10,At Risk
+FO-14305,Frank Olsen,39,10,"$2,678.4",4,5,3,453,12,Champions
+FP-14320,Frank Preis,24,8,"$4,046.8",5,4,4,544,13,Champions
+FW-14395,Fred Wasserman,363,3,$79.8,1,1,1,111,3,Lost
+GA-14515,George Ashbrook,150,8,"$3,919.8",2,4,4,244,10,At Risk
+GA-14725,Guy Armstrong,6,11,"$1,398.4",5,5,2,552,12,Champions
+GB-14530,George Bell,63,11,"$1,568.4",3,5,2,352,10,Loyal
+GB-14575,Giulietta Baptist,14,5,"$4,716.3",5,2,5,525,12,Champions
+GD-14590,Giulietta Dortch,6,4,"$1,888.1",5,1,3,513,9,Loyal
+GG-14650,Greg Guthrie,44,9,"$2,224.0",4,5,3,453,12,Champions
+GH-14410,Gary Hansen,76,9,"$2,819.5",3,5,4,354,12,Loyal
+GH-14425,Gary Hwang,51,4,"$4,172.9",4,1,4,414,9,Loyal
+GH-14485,Gene Hale,388,2,"$1,361.2",1,1,2,112,4,Lost
+GH-14665,Greg Hansen,3,2,$146.9,5,1,1,511,7,Loyal
+GK-14620,Grace Kelly,113,9,"$6,497.3",2,5,5,255,12,At Risk
+GM-14440,Gary McGarr,84,7,"$3,582.8",3,3,4,334,10,Loyal
+GM-14455,Gary Mitchum,17,6,"$3,078.6",5,3,4,534,12,Champions
+GM-14500,Gene McClure,107,10,"$1,255.7",2,5,2,252,9,At Risk
+GM-14680,Greg Matthias,153,6,"$3,163.6",2,3,4,234,9,At Risk
+GM-14695,Greg Maxwell,118,3,"$6,050.0",2,1,5,215,8,At Risk
+GP-14740,Guy Phonely,766,2,$236.5,1,1,1,111,3,Lost
+GR-14560,Georgia Rosenberg,1136,2,"$1,284.4",1,1,2,112,4,Lost
+GT-14635,Grant Thornton,57,3,"$9,351.2",3,1,5,315,9,Loyal
+GT-14710,Greg Tran,37,11,"$11,820.1",4,5,5,455,14,Champions
+GT-14755,Guy Thornton,35,4,$226.4,4,1,1,411,6,Loyal
+GW-14605,Giulietta Weimer,29,7,"$2,189.0",4,3,3,433,10,Champions
+GZ-14470,Gary Zandusky,8,9,"$4,355.2",5,5,5,555,15,Champions
+GZ-14545,George Zrebassa,158,4,"$2,454.6",2,1,3,213,6,Lost
+HA-14905,Helen Abelman,70,7,"$2,163.3",3,3,3,333,9,Loyal
+HA-14920,Helen Andreada,21,8,"$2,584.2",5,4,3,543,12,Champions
+HD-14785,Harold Dahlen,770,3,$251.4,1,1,1,111,3,Lost
+HE-14800,Harold Engle,13,4,$883.5,5,1,1,511,7,Loyal
+HF-14995,Herbert Flentye,22,7,"$2,533.2",5,4,3,543,12,Champions
+HG-14845,Harry Greene,55,5,$785.6,3,2,1,321,6,Loyal
+HG-14965,Henry Goldwyn,24,12,"$3,247.6",5,5,4,554,14,Champions
+HG-15025,Hunter Glantz,7,7,"$3,690.3",5,4,4,544,13,Champions
+HH-15010,Hilary Holden,73,2,$218.7,3,1,1,311,5,Loyal
+HJ-14875,Heather Jas,127,5,$358.1,2,2,1,221,5,Lost
+HK-14890,Heather Kirkland,152,8,"$4,877.8",2,4,5,245,11,At Risk
+HL-15040,Hunter Lopez,44,6,"$12,873.3",4,3,5,435,12,Champions
+HM-14860,Harry Marie,3,10,"$8,236.8",5,5,5,555,15,Champions
+HM-14980,Henry MacAllister,248,4,$736.3,1,1,1,111,3,Lost
+HP-14815,Harold Pawlan,31,7,"$1,990.3",4,4,3,443,11,Champions
+HR-14770,Hallie Redmond,14,5,"$1,299.3",5,2,2,522,9,Loyal
+HR-14830,Harold Ryan,160,7,"$5,248.8",2,4,5,245,11,At Risk
+HW-14935,Helen Wasserman,118,8,"$9,300.3",2,4,5,245,11,At Risk
+HZ-14950,Henia Zydlo,36,5,$886.5,4,2,1,421,7,Loyal
+IG-15085,Ivan Gibson,72,4,$744.6,3,1,1,311,5,Loyal
+IL-15100,Ivan Liston,143,7,"$5,040.7",2,4,5,245,11,At Risk
+IM-15055,Ionia McGrath,410,3,"$2,872.6",1,1,4,114,6,Lost
+IM-15070,Irene Maddox,391,7,"$4,930.5",1,4,5,145,10,At Risk
+JA-15970,Joseph Airdo,93,8,"$6,491.0",3,4,5,345,12,Loyal
+JB-15400,Jennifer Braxton,8,10,"$1,791.6",5,5,3,553,13,Champions
+JB-15925,Joni Blumstein,738,3,$900.6,1,1,1,111,3,Lost
+JB-16000,Joy Bell-,44,7,$644.1,4,4,1,441,9,Loyal
+JB-16045,Julia Barnett,8,5,"$2,518.1",5,2,3,523,10,Loyal
+JC-15340,Jasper Cacioppo,115,4,$71.3,2,1,1,211,4,Lost
+JC-15385,Jenna Caffey,176,1,"$1,058.1",2,1,2,212,5,Lost
+JC-15775,John Castell,159,9,"$2,772.1",2,5,4,254,11,At Risk
+JC-16105,Julie Creighton,58,5,$858.6,3,2,1,321,6,Loyal
+JD-15790,John Dryer,118,5,"$2,152.4",2,2,3,223,7,Lost
+JD-15895,Jonathan Doherty,395,11,"$7,610.9",1,5,5,155,11,At Risk
+JD-16015,Joy Daniels,113,6,$385.4,2,3,1,231,6,Lost
+JD-16060,Julia Dunbar,301,3,$695.4,1,1,1,111,3,Lost
+JD-16150,Justin Deggeller,42,8,"$8,828.0",4,4,5,445,13,Champions
+JE-15475,Jeremy Ellison,194,6,"$1,388.7",2,3,2,232,7,Lost
+JE-15610,Jim Epp,49,7,"$7,755.0",4,4,5,445,13,Champions
+JE-15715,Joe Elijah,47,10,"$8,697.8",4,5,5,455,14,Champions
+JE-15745,Joel Eaton,52,13,"$6,760.8",4,5,5,455,14,Champions
+JE-16165,Justin Ellison,21,3,"$2,697.3",5,1,3,513,9,Loyal
+JF-15190,Jamie Frazer,66,7,"$2,279.6",3,4,3,343,10,Loyal
+JF-15295,Jason Fortune-,226,5,$955.1,1,2,1,121,4,Lost
+JF-15355,Jay Fein,106,6,"$1,911.8",2,3,3,233,8,At Risk
+JF-15415,Jennifer Ferguson,3,6,"$2,371.5",5,3,3,533,11,Champions
+JF-15490,Jeremy Farry,122,11,"$1,082.9",2,5,2,252,9,At Risk
+JF-15565,Jill Fjeld,55,8,"$4,198.3",3,4,4,344,11,Loyal
+JG-15115,Jack Garza,759,3,"$2,358.7",1,1,3,113,5,Lost
+JG-15160,James Galang,2,11,"$6,366.4",5,5,5,555,15,Champions
+JG-15310,Jason Gross,3,6,"$2,240.6",5,3,3,533,11,Champions
+JG-15805,John Grady,224,6,"$1,507.0",2,3,2,232,7,Lost
+JH-15430,Jennifer Halladay,6,4,$309.3,5,1,1,511,7,Loyal
+JH-15820,John Huston,175,6,$528.9,2,3,1,231,6,Lost
+JH-15910,Jonathan Howell,42,7,$959.5,4,4,1,441,9,Loyal
+JH-15985,Joseph Holt,30,6,"$7,955.0",4,3,5,435,12,Champions
+JH-16180,Justin Hirsh,405,4,"$2,256.4",1,1,3,113,5,Lost
+JJ-15445,Jennifer Jackson,484,5,$709.2,1,2,1,121,4,Lost
+JJ-15760,Joel Jenkins,754,2,$195.0,1,1,1,111,3,Lost
+JK-15205,Jamie Kunitz,62,5,"$4,427.1",3,2,5,325,10,Loyal
+JK-15325,Jason Klamczynski,288,3,$383.8,1,1,1,111,3,Lost
+JK-15370,Jay Kimmel,45,8,"$2,709.6",4,4,3,443,11,Champions
+JK-15625,Jim Karlsson,62,7,"$3,760.0",3,4,4,344,11,Loyal
+JK-15640,Jim Kriz,181,9,"$4,760.4",2,5,5,255,12,At Risk
+JK-15730,Joe Kamberova,85,10,"$4,867.2",3,5,5,355,13,Loyal
+JK-16090,Juliana Krohn,29,3,"$3,747.7",4,1,4,414,9,Loyal
+JK-16120,Julie Kriz,118,10,"$2,932.5",2,5,4,254,11,At Risk
+JL-15130,Jack Lebron,9,6,"$1,215.0",5,3,2,532,10,Loyal
+JL-15175,James Lanier,7,5,"$1,571.5",5,2,2,522,9,Loyal
+JL-15235,Janet Lee,120,5,"$2,203.7",2,2,3,223,7,Lost
+JL-15505,Jeremy Lonsdale,50,6,"$3,173.9",4,3,4,434,11,Champions
+JL-15835,John Lee,22,11,"$9,799.9",5,5,5,555,15,Champions
+JL-15850,John Lucas,615,6,"$2,725.3",1,3,3,133,7,At Risk
+JM-15250,Janet Martin,38,6,"$3,159.1",4,3,4,434,11,Champions
+JM-15265,Janet Molinari,38,5,"$1,804.2",4,2,3,423,9,Loyal
+JM-15535,Jessica Myrick,103,7,"$1,733.4",3,4,2,342,9,Loyal
+JM-15580,Jill Matthias,1,5,$304.0,5,2,1,521,8,Loyal
+JM-15655,Jim Mitchum,9,5,$865.0,5,2,1,521,8,Loyal
+JM-15865,John Murray,110,7,"$7,625.1",2,4,5,245,11,At Risk
+JM-16195,Justin MacKendrick,58,10,"$2,833.9",3,5,4,354,12,Loyal
+JO-15145,Jack O'Briant,58,9,"$3,255.0",3,5,4,354,12,Loyal
+JO-15280,Jas O'Carroll,93,6,"$1,934.3",3,3,3,333,9,Loyal
+JO-15550,Jesus Ocampo,216,5,"$1,090.8",2,2,2,222,6,Lost
+JP-15460,Jennifer Patt,38,7,"$1,669.1",4,4,2,442,10,Champions
+JP-15520,Jeremy Pistek,9,7,"$3,635.6",5,4,4,544,13,Champions
+JP-16135,Julie Prescott,103,9,"$1,707.7",3,5,2,352,10,Loyal
+JR-15670,Jim Radford,594,2,"$1,156.7",1,1,2,112,4,Lost
+JR-15700,Jocasta Rupert,69,1,$863.9,3,1,1,311,5,Loyal
+JR-16210,Justin Ritter,34,5,"$2,201.7",4,2,3,423,9,Loyal
+JS-15595,Jill Stevenson,120,4,"$1,417.7",2,1,2,212,5,Lost
+JS-15685,Jim Sink,43,4,"$1,131.1",4,1,2,412,7,Loyal
+JS-15880,John Stevenson,535,5,"$3,868.0",1,2,4,124,7,At Risk
+JS-15940,Joni Sundaresam,464,5,$469.2,1,2,1,121,4,Lost
+JS-16030,Joy Smith,29,6,"$2,516.5",4,3,3,433,10,Champions
+JW-15220,Jane Waco,43,6,"$7,721.7",4,3,5,435,12,Champions
+JW-15955,Joni Wasserman,6,7,"$1,244.1",5,4,2,542,11,Champions
+JW-16075,Julia West,462,4,"$1,428.7",1,1,2,112,4,Lost
+KA-16525,Kelly Andreada,37,7,"$1,519.5",4,4,2,442,10,Champions
+KB-16240,Karen Bern,5,7,"$3,152.6",5,4,4,544,13,Champions
+KB-16315,Karl Braun,297,9,"$1,569.5",1,5,2,152,8,At Risk
+KB-16405,Katrina Bavinger,118,3,$908.8,2,1,1,211,4,Lost
+KB-16585,Ken Black,231,12,"$2,744.7",1,5,3,153,9,At Risk
+KB-16600,Ken Brennan,2,7,$983.9,5,4,2,542,11,Champions
+KC-16255,Karen Carlisle,408,6,"$2,121.0",1,3,3,133,7,At Risk
+KC-16540,Kelly Collister,98,4,"$3,908.3",3,1,4,314,8,Loyal
+KC-16675,Kimberly Carter,58,4,"$1,146.1",3,1,2,312,6,Loyal
+KD-16270,Karen Daniels,485,5,"$8,282.4",1,2,5,125,8,At Risk
+KD-16345,Katherine Ducich,42,6,"$1,889.0",4,3,3,433,10,Champions
+KD-16495,Keith Dawkins,113,12,"$8,181.3",2,5,5,255,12,At Risk
+KD-16615,Ken Dana,290,5,"$2,243.5",1,2,3,123,6,Lost
+KE-16420,Katrina Edelman,27,8,"$1,686.7",5,4,2,542,11,Champions
+KF-16285,Karen Ferguson,98,7,"$10,604.3",3,4,5,345,12,Loyal
+KH-16330,Katharine Harms,41,8,"$3,312.9",4,4,4,444,12,Champions
+KH-16360,Katherine Hughes,2,6,"$3,100.6",5,3,4,534,12,Champions
+KH-16510,Keith Herrera,23,7,"$5,952.9",5,4,5,545,14,Champions
+KH-16630,Ken Heidel,59,9,"$3,919.0",3,5,4,354,12,Loyal
+KH-16690,Kristen Hastings,3,7,"$5,990.8",5,4,5,545,14,Champions
+KL-16555,Kelly Lampkin,17,8,"$5,016.5",5,4,5,545,14,Champions
+KL-16645,Ken Lonsdale,48,12,"$14,175.2",4,5,5,455,14,Champions
+KM-16225,Kalyca Meade,15,6,"$2,261.0",5,3,3,533,11,Champions
+KM-16375,Katherine Murray,57,8,"$5,620.2",3,4,5,345,12,Loyal
+KM-16660,Khloe Miller,16,5,$453.5,5,2,1,521,8,Loyal
+KM-16720,Kunst Miller,29,8,"$4,909.5",4,4,5,445,13,Champions
+KN-16390,Katherine Nockton,20,9,"$2,617.3",5,5,3,553,13,Champions
+KN-16450,Kean Nguyen,53,5,"$2,172.0",4,2,3,423,9,Loyal
+KN-16705,Kristina Nunn,99,8,"$2,280.6",3,4,3,343,10,Loyal
+KS-16300,Karen Seio,296,3,$88.5,1,1,1,111,3,Lost
+KT-16465,Kean Takahito,392,7,"$3,057.1",1,4,4,144,9,At Risk
+KT-16480,Kean Thornton,101,10,"$4,642.1",3,5,5,355,13,Loyal
+KW-16435,Katrina Willman,97,5,"$4,416.5",3,2,5,325,10,Loyal
+KW-16570,Kelly Williams,772,4,$449.1,1,1,1,111,3,Lost
+LA-16780,Laura Armstrong,155,11,"$8,673.2",2,5,5,255,12,At Risk
+LB-16735,Larry Blacks,49,3,$50.2,4,1,1,411,6,Loyal
+LB-16795,Laurel Beltran,153,8,"$4,985.7",2,4,5,245,11,At Risk
+LC-16870,Lena Cacioppo,28,8,"$2,580.7",4,4,3,443,11,Champions
+LC-16885,Lena Creighton,17,12,"$7,663.1",5,5,5,555,15,Champions
+LC-16930,Linda Cazamias,42,8,"$4,493.0",4,4,5,445,13,Champions
+LC-16960,Lindsay Castell,437,4,"$3,246.6",1,1,4,114,6,Lost
+LC-17050,Liz Carlisle,55,5,"$2,095.1",3,2,3,323,8,Loyal
+LC-17140,Logan Currie,14,9,"$2,633.6",5,5,3,553,13,Champions
+LD-16855,Lela Donovan,553,1,$5.3,1,1,1,111,3,Lost
+LD-17005,Lisa DeCherney,415,4,"$1,961.9",1,1,3,113,5,Lost
+LE-16810,Laurel Elliston,22,6,"$1,469.5",5,3,2,532,10,Loyal
+LF-17185,Luke Foster,23,7,"$3,930.5",5,4,4,544,13,Champions
+LH-16750,Larry Hughes,152,3,$287.4,2,1,1,211,4,Lost
+LH-16900,Lena Hernandez,22,9,"$2,295.3",5,5,3,553,13,Champions
+LH-17020,Lisa Hazard,240,4,$318.2,1,1,1,111,3,Lost
+LH-17155,Logan Haushalter,386,9,"$1,739.7",1,5,3,153,9,At Risk
+LL-16840,Lauren Leatherbury,250,6,"$2,741.2",1,3,3,133,7,At Risk
+LM-17065,Liz MacKendrick,392,5,"$1,346.8",1,2,2,122,5,Lost
+LO-17170,Lori Olson,3,5,$644.4,5,2,1,521,8,Loyal
+LP-17080,Liz Pelletier,41,4,$756.6,4,1,1,411,6,Loyal
+LP-17095,Liz Preis,10,7,"$3,653.4",5,4,4,544,13,Champions
+LR-16915,Lena Radford,27,6,"$5,142.9",4,3,5,435,12,Champions
+LR-17035,Lisa Ryan,133,5,"$1,879.3",2,2,3,223,7,Lost
+LS-16945,Linda Southworth,179,6,"$2,845.3",2,3,4,234,9,At Risk
+LS-16975,Lindsay Shagiari,21,9,"$2,988.7",5,5,4,554,14,Champions
+LS-17200,Luke Schmidt,97,6,"$1,010.3",3,3,2,332,8,Loyal
+LS-17230,Lycoris Saunders,778,3,$368.9,1,1,1,111,3,Lost
+LS-17245,Lynn Smith,35,6,"$1,008.1",4,3,2,432,9,Loyal
+LT-16765,Larry Tron,27,3,$329.9,4,1,1,411,6,Loyal
+LT-17110,Liz Thompson,35,8,"$2,936.3",4,4,4,444,12,Champions
+LW-16825,Laurel Workman,89,5,"$2,238.1",3,2,3,323,8,Loyal
+LW-16990,Lindsay Williams,34,6,"$3,230.3",4,3,4,434,11,Champions
+LW-17125,Liz Willingham,206,3,"$1,259.0",2,1,2,212,5,Lost
+LW-17215,Luke Weiss,22,7,"$5,420.5",5,4,5,545,14,Champions
+MA-17560,Matt Abelman,65,11,"$4,299.2",3,5,5,355,13,Loyal
+MA-17995,Michelle Arnett,187,6,"$2,453.3",2,3,3,233,8,At Risk
+MB-17305,Maria Bertelson,49,10,"$1,548.7",4,5,2,452,11,Champions
+MB-18085,Mick Brown,45,7,"$1,428.2",4,4,2,442,10,Champions
+MC-17275,Marc Crier,77,8,"$2,726.0",3,4,3,343,10,Loyal
+MC-17425,Mark Cousins,400,5,"$4,432.1",1,2,5,125,8,At Risk
+MC-17575,Matt Collins,28,8,"$1,303.9",4,4,2,442,10,Champions
+MC-17590,Matt Collister,52,6,"$2,426.1",4,3,3,433,10,Champions
+MC-17605,Matt Connell,113,8,"$2,258.2",2,4,3,243,9,At Risk
+MC-17635,Matthew Clasen,190,4,$795.2,2,1,1,211,4,Lost
+MC-17845,Michael Chen,2,7,"$3,805.7",5,4,4,544,13,Champions
+MC-18100,Mick Crebagga,42,10,"$2,219.0",4,5,3,453,12,Champions
+MC-18130,Mike Caudle,370,5,"$1,582.0",1,2,2,122,5,Lost
+MD-17350,Maribeth Dona,118,7,"$3,766.4",2,4,4,244,10,At Risk
+MD-17860,Michael Dominguez,37,5,"$1,204.9",4,2,2,422,8,Loyal
+ME-17320,Maria Etezadi,43,10,"$10,663.7",4,5,5,455,14,Champions
+ME-17725,Max Engle,29,8,"$1,908.5",4,4,3,443,11,Champions
+ME-18010,Michelle Ellison,93,4,"$1,256.9",3,2,2,322,7,Loyal
+MF-17665,Maureen Fritzler,422,5,$937.0,1,2,1,121,4,Lost
+MF-18250,Monica Federle,8,5,"$1,758.3",5,2,3,523,10,Loyal
+MG-17650,Matthew Grinstein,30,7,"$3,785.3",4,4,4,444,12,Champions
+MG-17680,Maureen Gastineau,93,4,"$2,350.2",3,2,3,323,8,Loyal
+MG-17695,Maureen Gnade,556,3,"$1,342.3",1,1,2,112,4,Lost
+MG-17875,Michael Grace,117,5,"$1,242.8",2,2,2,222,6,Lost
+MG-17890,Michael Granlund,100,9,$776.4,3,5,1,351,9,Loyal
+MG-18145,Mike Gockenbach,85,4,"$3,061.5",3,2,4,324,9,Loyal
+MG-18205,Mitch Gastineau,265,1,$16.7,1,1,1,111,3,Lost
+MH-17290,Marc Harrigan,120,6,"$2,394.0",2,3,3,233,8,At Risk
+MH-17440,Mark Haberlin,377,4,$400.0,1,2,1,121,4,Lost
+MH-17455,Mark Hamilton,86,8,"$2,456.2",3,4,3,343,10,Loyal
+MH-17620,Matt Hagelstein,156,4,"$1,252.8",2,2,2,222,6,Lost
+MH-17785,Maya Herman,99,7,"$2,203.8",3,4,3,343,10,Loyal
+MH-18025,Michelle Huthwaite,50,5,"$2,985.0",4,2,4,424,10,Champions
+MH-18115,Mick Hernandez,6,9,"$5,503.1",5,5,5,555,15,Champions
+MJ-17740,Max Jones,23,7,"$6,320.8",5,4,5,545,14,Champions
+MK-17905,Michael Kennedy,29,8,"$2,302.4",4,4,3,443,11,Champions
+MK-18160,Mike Kennedy,241,4,"$1,031.6",1,2,2,122,5,Lost
+ML-17395,Marina Lichtenstein,70,9,"$2,722.8",3,5,3,353,11,Loyal
+ML-17410,Maris LaWare,55,6,"$2,921.5",3,3,4,334,10,Loyal
+ML-17755,Max Ludwig,30,7,"$2,071.9",4,4,3,443,11,Champions
+ML-18040,Michelle Lonsdale,80,3,$742.1,3,1,1,311,5,Loyal
+ML-18265,Muhammed Lee,101,2,$162.2,3,1,1,311,5,Loyal
+MM-17260,Magdelene Morse,169,4,"$1,314.0",2,2,2,222,6,Lost
+MM-17920,Michael Moore,8,11,"$3,794.1",5,5,4,554,14,Champions
+MM-18055,Michelle Moray,62,8,"$2,749.9",3,4,3,343,10,Loyal
+MM-18280,Muhammed MacIntyre,86,9,$775.4,3,5,1,351,9,Loyal
+MN-17935,Michael Nguyen,35,6,"$2,478.0",4,3,3,433,10,Champions
+MO-17500,Mary O'Rourke,73,4,$922.5,3,2,1,321,6,Loyal
+MO-17800,Meg O'Connel,105,8,"$1,687.0",2,4,2,242,8,At Risk
+MO-17950,Michael Oakman,181,2,$154.3,2,1,1,211,4,Lost
+MP-17470,Mark Packer,720,7,"$3,206.1",1,4,4,144,9,At Risk
+MP-17965,Michael Paige,73,9,"$3,983.6",3,5,4,354,12,Loyal
+MP-18175,Mike Pelletier,17,9,"$5,087.9",5,5,5,555,15,Champions
+MR-17545,Mathew Reese,126,4,$639.2,2,2,1,221,5,Lost
+MS-17365,Maribeth Schnelling,274,10,"$7,443.7",1,5,5,155,11,At Risk
+MS-17530,MaryBeth Skach,435,4,$475.7,1,2,1,121,4,Lost
+MS-17710,Maurice Satty,414,6,"$1,613.4",1,3,2,132,6,Lost
+MS-17770,Maxwell Schwartz,122,9,"$3,144.7",2,5,4,254,11,At Risk
+MS-17830,Melanie Seite,453,4,$370.4,1,2,1,121,4,Lost
+MS-17980,Michael Stewart,27,6,$855.1,4,3,1,431,8,Loyal
+MT-17815,Meg Tillman,50,6,"$2,890.1",4,3,4,434,11,Champions
+MT-18070,Michelle Tran,204,4,"$1,319.5",2,2,2,222,6,Lost
+MV-17485,Mark Van Huff,28,9,"$1,560.1",4,5,2,452,11,Champions
+MV-18190,Mike Vittorini,20,7,"$1,734.6",5,4,2,542,11,Champions
+MW-18220,Mitch Webber,18,7,"$5,341.9",5,4,5,545,14,Champions
+MW-18235,Mitch Willingham,45,2,"$5,253.9",4,1,5,415,10,Champions
+MY-17380,Maribeth Yedwab,30,7,"$2,254.3",4,4,3,443,11,Champions
+MY-18295,Muhammed Yedwab,72,11,"$4,152.7",3,5,4,354,12,Loyal
+MZ-17335,Maria Zettner,31,4,$593.6,4,2,1,421,7,Loyal
+MZ-17515,Mary Zewe,283,6,"$2,564.9",1,3,3,133,7,At Risk
+NB-18580,Nicole Brennan,1166,2,$273.9,1,1,1,111,3,Lost
+NB-18655,Nona Balk,20,9,"$1,972.6",5,5,3,553,13,Champions
+NC-18340,Nat Carroll,225,5,"$2,461.4",2,2,3,223,7,Lost
+NC-18415,Nathan Cano,42,6,"$2,219.0",4,3,3,433,10,Champions
+NC-18535,Nick Crebassa,7,7,"$8,241.7",5,4,5,545,14,Champions
+NC-18625,Noah Childs,205,5,"$1,821.7",2,2,3,223,7,Lost
+ND-18370,Natalie DeCherney,28,9,"$4,326.1",4,5,5,455,14,Champions
+ND-18460,Neil Ducich,184,6,"$2,893.5",2,3,4,234,9,At Risk
+NF-18385,Natalie Fritzler,80,7,"$8,322.8",3,4,5,345,12,Loyal
+NF-18475,Neil Franzosisch,526,4,$377.2,1,2,1,121,4,Lost
+NF-18595,Nicole Fjeld,115,7,"$2,031.5",2,4,3,243,9,At Risk
+NG-18355,Nat Gilpin,49,5,"$1,869.6",4,2,3,423,9,Loyal
+NG-18430,Nathan Gelder,49,5,"$1,395.9",4,2,2,422,8,Loyal
+NH-18610,Nicole Hansen,190,7,"$2,673.3",2,4,3,243,9,At Risk
+NK-18490,Neil Knudson,71,7,$572.1,3,4,1,341,8,Loyal
+NL-18310,Nancy Lomonaco,59,4,"$1,418.1",3,2,2,322,7,Loyal
+NM-18445,Nathan Mautz,161,7,"$6,459.3",2,4,5,245,11,At Risk
+NM-18520,Neoma Murray,245,10,"$2,162.0",1,5,3,153,9,At Risk
+NP-18325,Naresj Patel,26,6,"$5,529.6",5,3,5,535,13,Champions
+NP-18670,Nora Paige,59,5,"$3,908.4",3,2,4,324,9,Loyal
+NP-18685,Nora Pelletier,407,6,"$1,228.7",1,3,2,132,6,Lost
+NP-18700,Nora Preis,139,7,"$7,903.2",2,4,5,245,11,At Risk
+NR-18550,Nick Radford,211,5,"$2,367.3",2,2,3,223,7,Lost
+NS-18505,Neola Schneider,7,4,"$2,575.9",5,2,3,523,10,Loyal
+NS-18640,Noel Staavos,175,13,"$2,964.8",2,5,4,254,11,At Risk
+NW-18400,Natalie Webber,173,7,"$7,234.0",2,4,5,245,11,At Risk
+NZ-18565,Nick Zandusky,86,9,"$2,488.3",3,5,3,353,11,Loyal
+ON-18715,Odella Nelson,411,9,"$1,567.5",1,5,2,152,8,At Risk
+OT-18730,Olvera Toch,66,5,"$3,818.6",3,2,4,324,9,Loyal
+PA-19060,Pete Armstrong,104,6,$729.4,3,3,1,331,7,Loyal
+PB-18805,Patrick Bzostek,26,3,$740.4,5,1,1,511,7,Loyal
+PB-19105,Peter Buhler,58,4,$688.3,3,2,1,321,6,Loyal
+PB-19150,Philip Brown,98,8,"$1,457.0",3,4,2,342,9,Loyal
+PB-19210,Phillip Breyer,689,2,$132.7,1,1,1,111,3,Lost
+PC-18745,Pamela Coakley,3,4,"$1,832.1",5,2,3,523,10,Loyal
+PC-19000,Pauline Chand,883,2,"$1,061.5",1,1,2,112,4,Lost
+PF-19120,Peter Fuller,836,4,"$9,062.9",1,2,5,125,8,At Risk
+PF-19165,Philip Fox,197,6,"$2,770.0",2,3,4,234,9,At Risk
+PF-19225,Phillip Flathmann,115,5,"$2,206.1",2,2,3,223,7,Lost
+PG-18820,Patrick Gardner,37,13,"$3,086.9",4,5,4,454,13,Champions
+PG-18895,Paul Gonzalez,58,9,"$1,987.2",3,5,3,353,11,Loyal
+PH-18790,Patricia Hirasaki,71,1,$729.7,3,1,1,311,5,Loyal
+PJ-18835,Patrick Jones,40,8,"$1,220.1",4,4,2,442,10,Champions
+PJ-19015,Pauline Johnson,135,7,"$1,824.2",2,4,3,243,9,At Risk
+PK-18910,Paul Knutson,484,2,"$1,441.2",1,1,2,112,4,Lost
+PK-19075,Pete Kriz,10,12,"$8,646.9",5,5,5,555,15,Champions
+PL-18925,Paul Lucas,16,5,$239.5,5,2,1,521,8,Loyal
+PM-18940,Paul MacIntyre,387,3,"$1,405.4",1,1,2,112,4,Lost
+PM-19135,Peter McVee,52,4,"$4,115.7",4,2,4,424,10,Champions
+PN-18775,Parhena Norris,31,8,"$1,467.2",4,4,2,442,10,Champions
+PO-18850,Patrick O'Brill,5,11,"$7,473.8",5,5,5,555,15,Champions
+PO-18865,Patrick O'Donnell,1,7,"$2,493.2",5,4,3,543,12,Champions
+PO-19180,Philisse Overcash,161,9,"$4,893.0",2,5,5,255,12,At Risk
+PO-19195,Phillina Ober,87,5,"$1,056.9",3,2,2,322,7,Loyal
+PP-18955,Paul Prost,98,10,"$7,252.6",3,5,5,355,13,Loyal
+PR-18880,Patrick Ryan,37,5,"$1,840.2",4,2,3,423,9,Loyal
+PS-18760,Pamela Stobb,108,6,"$2,181.5",2,3,3,233,8,At Risk
+PS-18970,Paul Stevenson,70,8,"$1,278.6",3,4,2,342,9,Loyal
+PS-19045,Penelope Sewall,237,7,"$6,843.6",1,4,5,145,10,At Risk
+PT-19090,Pete Takahito,72,4,$160.6,3,2,1,321,6,Loyal
+PV-18985,Paul Van Hugh,90,5,"$2,876.1",3,2,4,324,9,Loyal
+PW-19030,Pauline Webber,47,10,"$3,454.9",4,5,4,454,13,Champions
+PW-19240,Pierre Wener,465,7,"$3,922.4",1,4,4,144,9,At Risk
+QJ-19255,Quincy Jones,26,9,"$6,108.3",5,5,5,555,15,Champions
+RA-19285,Ralph Arnett,6,9,"$2,617.9",5,5,3,553,13,Champions
+RA-19885,Ruben Ausman,44,7,"$3,832.3",4,4,4,444,12,Champions
+RA-19915,Russell Applegate,13,9,"$4,793.5",5,5,5,555,15,Champions
+RA-19945,Ryan Akin,62,5,"$1,686.9",3,2,2,322,7,Loyal
+RB-19330,Randy Bradley,69,2,"$1,008.2",3,1,2,312,6,Loyal
+RB-19360,Raymond Buch,97,6,"$15,117.3",3,3,5,335,11,Loyal
+RB-19435,Richard Bierner,20,8,"$2,663.1",5,4,3,543,12,Champions
+RB-19465,Rick Bensley,10,12,"$4,715.5",5,5,5,555,15,Champions
+RB-19570,Rob Beeghly,26,5,$528.6,5,2,1,521,8,Loyal
+RB-19645,Robert Barroso,649,5,$221.1,1,2,1,121,4,Lost
+RB-19705,Roger Barcio,55,4,"$2,067.5",3,2,3,323,8,Loyal
+RB-19795,Ross Baird,33,8,"$5,633.3",4,4,5,445,13,Champions
+RC-19825,Roy Collins,370,6,$966.4,1,3,2,132,6,Lost
+RC-19960,Ryan Crowe,111,6,$885.8,2,3,1,231,6,Lost
+RD-19480,Rick Duston,73,8,"$4,272.9",3,4,4,344,11,Loyal
+RD-19585,Rob Dowd,181,10,"$2,912.9",2,5,4,254,11,At Risk
+RD-19660,Robert Dilbeck,115,5,"$2,786.6",2,2,4,224,8,At Risk
+RD-19720,Roger Demir,22,10,"$1,419.7",5,5,2,552,12,Champions
+RD-19810,Ross DeVincentis,15,8,"$1,137.6",5,4,2,542,11,Champions
+RD-19900,Ruben Dartt,115,9,"$3,133.9",2,5,4,254,11,At Risk
+RD-19930,Russell D'Ascenzo,43,4,$970.9,4,2,2,422,8,Loyal
+RE-19405,Ricardo Emerson,1098,1,$48.4,1,1,1,111,3,Lost
+RE-19450,Richard Eichhorn,303,5,$876.7,1,2,1,121,4,Lost
+RF-19345,Randy Ferguson,391,8,"$3,309.2",1,4,4,144,9,At Risk
+RF-19735,Roland Fjeld,90,7,"$2,341.3",3,4,3,343,10,Loyal
+RF-19840,Roy Franzosisch,7,8,$945.2,5,4,1,541,10,Loyal
+RH-19495,Rick Hansen,33,5,"$3,621.4",4,2,4,424,10,Champions
+RH-19510,Rick Huthwaite,468,6,"$6,979.2",1,3,5,135,9,At Risk
+RH-19555,Ritsa Hightower,520,2,$740.4,1,1,1,111,3,Lost
+RH-19600,Rob Haberlin,535,3,"$2,085.7",1,1,3,113,5,Lost
+RK-19300,Ralph Kennedy,120,3,"$1,460.2",2,1,2,212,5,Lost
+RL-19615,Rob Lucas,122,8,"$6,234.9",2,4,5,245,11,At Risk
+RM-19375,Raymond Messe,346,6,"$1,453.5",1,3,2,132,6,Lost
+RM-19675,Robert Marley,7,5,"$5,979.1",5,2,5,525,12,Champions
+RM-19750,Roland Murray,300,1,$98.4,1,1,1,111,3,Lost
+RO-19780,Rose O'Brian,36,7,"$3,815.5",4,4,4,444,12,Champions
+RP-19270,Rachel Payne,497,4,$954.7,1,2,1,121,4,Lost
+RP-19390,Resi Polking,34,12,"$5,153.1",4,5,5,455,14,Champions
+RP-19855,Roy Phan,29,8,"$2,170.7",4,4,3,443,11,Champions
+RR-19315,Ralph Ritter,20,2,$615.9,5,1,1,511,7,Loyal
+RR-19525,Rick Reed,171,6,"$3,302.3",2,3,4,234,9,At Risk
+RS-19420,Ricardo Sperren,77,5,"$3,221.3",3,2,4,324,9,Loyal
+RS-19765,Roland Schwarz,37,8,"$4,159.8",4,4,4,444,12,Champions
+RS-19870,Roy Skaria,20,2,$22.3,5,1,1,511,7,Loyal
+RW-19540,Rick Wilson,121,7,"$7,397.4",2,4,5,245,11,At Risk
+RW-19630,Rob Williams,90,9,"$3,279.8",3,5,4,354,12,Loyal
+RW-19690,Robert Waldorf,80,5,"$3,495.7",3,2,4,324,9,Loyal
+SA-20830,Sue Ann Reed,64,10,"$4,767.3",3,5,5,355,13,Loyal
+SB-20170,Sarah Bern,202,3,"$1,348.0",2,1,2,212,5,Lost
+SB-20185,Sarah Brown,189,6,"$6,411.0",2,3,5,235,10,At Risk
+SB-20290,Sean Braxton,48,7,"$8,057.9",4,4,5,445,13,Champions
+SC-20020,Sam Craven,782,5,"$3,363.0",1,2,4,124,7,At Risk
+SC-20050,Sample Company A,41,9,"$4,624.6",4,5,5,455,14,Champions
+SC-20095,Sanjit Chand,350,9,"$14,142.3",1,5,5,155,11,At Risk
+SC-20230,Scot Coram,150,4,"$4,372.0",2,2,5,225,9,At Risk
+SC-20260,Scott Cohen,188,8,"$3,729.8",2,4,4,244,10,At Risk
+SC-20305,Sean Christensen,30,7,"$3,979.1",4,4,4,444,12,Champions
+SC-20380,Shahid Collister,31,9,"$5,992.5",4,5,5,455,14,Champions
+SC-20440,Shaun Chance,37,7,"$1,875.0",4,4,3,443,11,Champions
+SC-20575,Sonia Cooley,93,5,$902.7,3,2,1,321,6,Loyal
+SC-20680,Steve Carroll,127,6,"$1,254.6",2,3,2,232,7,Lost
+SC-20695,Steve Chapman,90,10,"$2,576.4",3,5,3,353,11,Loyal
+SC-20725,Steven Cartwright,188,11,"$5,226.2",2,5,5,255,12,At Risk
+SC-20770,Stewart Carmichael,42,7,"$4,492.7",4,4,5,445,13,Champions
+SC-20800,Stuart Calhoun,31,4,$279.3,4,2,1,421,7,Loyal
+SC-20845,Sung Chung,132,2,$280.6,2,1,1,211,4,Lost
+SD-20485,Shirley Daniels,201,9,"$6,121.1",2,5,5,255,12,At Risk
+SE-20110,Sanjit Engle,10,11,"$12,209.4",5,5,5,555,15,Champions
+SF-20065,Sandra Flanagan,60,7,$763.6,3,4,1,341,8,Loyal
+SF-20200,Sarah Foster,60,9,"$3,422.8",3,5,4,354,12,Loyal
+SF-20965,Sylvia Foulston,49,9,"$3,336.5",4,5,4,454,13,Champions
+SG-20080,Sandra Glassco,9,3,"$3,406.6",5,1,4,514,10,Loyal
+SG-20470,Sheri Gordon,184,8,"$1,884.8",2,4,3,243,9,At Risk
+SG-20605,Speros Goranitis,109,6,"$3,124.8",2,3,4,234,9,At Risk
+SG-20890,Susan Gilcrest,227,3,$48.0,1,1,1,111,3,Lost
+SH-19975,Sally Hughsby,30,13,"$3,406.8",4,5,4,454,13,Champions
+SH-20395,Shahid Hopkins,24,10,"$2,180.7",5,5,3,553,13,Champions
+SH-20635,Stefanie Holloman,766,2,"$2,096.4",1,1,3,113,5,Lost
+SJ-20125,Sanjit Jacobs,96,12,"$3,949.7",3,5,4,354,12,Loyal
+SJ-20215,Sarah Jordon,30,6,"$1,341.0",4,3,2,432,9,Loyal
+SJ-20500,Shirley Jackson,254,5,"$1,318.8",1,2,2,122,5,Lost
+SK-19990,Sally Knutson,9,3,$883.4,5,1,1,511,7,Loyal
+SL-20155,Sara Luxemburg,71,7,"$3,053.0",3,4,4,344,11,Loyal
+SM-20005,Sally Matthias,422,4,$244.5,1,2,1,121,4,Lost
+SM-20320,Sean Miller,80,5,"$25,043.1",3,2,5,325,10,Loyal
+SM-20905,Susan MacKendrick,607,1,"$1,043.0",1,1,2,112,4,Lost
+SM-20950,Suzanne McNair,26,12,"$5,563.4",5,5,5,555,15,Champions
+SN-20560,Skye Norling,112,6,"$1,860.4",2,3,3,233,8,At Risk
+SN-20710,Steve Nguyen,80,7,"$3,128.0",3,4,4,344,11,Loyal
+SO-20335,Sean O'Donnell,30,6,"$2,602.6",4,3,3,433,10,Champions
+SP-20545,Sibella Parks,328,6,"$1,306.1",1,3,2,132,6,Lost
+SP-20620,Stefania Perrino,48,9,"$5,440.3",4,5,5,455,14,Champions
+SP-20650,Stephanie Phelps,387,9,"$1,872.4",1,5,3,153,9,At Risk
+SP-20860,Sung Pak,80,10,"$4,282.9",3,5,5,355,13,Loyal
+SP-20920,Susan Pistek,71,6,"$3,990.7",3,3,4,334,10,Loyal
+SR-20425,Sharelle Roach,9,5,"$3,233.5",5,2,4,524,11,Champions
+SR-20740,Steven Roelle,197,8,"$4,345.9",2,4,5,245,11,At Risk
+SS-20140,Saphhira Shifley,16,8,"$1,324.0",5,4,2,542,11,Champions
+SS-20410,Shahid Shariari,111,6,"$3,056.8",2,3,4,234,9,At Risk
+SS-20515,Shirley Schmidt,492,3,$613.4,1,1,1,111,3,Lost
+SS-20590,Sonia Sunley,433,6,$418.5,1,3,1,131,5,Lost
+SS-20875,Sung Shariari,121,5,$964.6,2,2,2,222,6,Lost
+ST-20530,Shui Tom,126,7,$433.3,2,4,1,241,7,Lost
+SU-20665,Stephanie Ulpright,21,7,"$2,595.4",5,4,3,543,12,Champions
+SV-20365,Seth Vernon,102,10,"$11,471.0",3,5,5,355,13,Loyal
+SV-20785,Stewart Visinsky,321,9,"$4,105.3",1,5,4,154,10,At Risk
+SV-20815,Stuart Van,77,4,"$1,271.1",3,2,2,322,7,Loyal
+SV-20935,Susan Vittorini,3,8,"$1,903.5",5,4,3,543,12,Champions
+SW-20245,Scot Wooten,82,7,"$1,085.1",3,4,2,342,9,Loyal
+SW-20275,Scott Williamson,31,6,"$1,966.7",4,3,3,433,10,Champions
+SW-20350,Sean Wendt,163,3,"$1,019.0",2,1,2,212,5,Lost
+SW-20455,Shaun Weien,163,7,"$2,921.5",2,4,4,244,10,At Risk
+SW-20755,Steven Ward,535,2,$758.7,1,1,1,111,3,Lost
+SZ-20035,Sam Zeldin,36,11,"$3,625.3",4,5,4,454,13,Champions
+TA-21385,Tom Ashbrook,70,4,"$14,595.6",3,2,5,325,10,Loyal
+TB-21055,Ted Butterfield,120,5,"$1,467.9",2,2,2,222,6,Lost
+TB-21175,Thomas Boland,59,4,"$3,589.3",3,2,4,324,9,Loyal
+TB-21190,Thomas Brumley,50,4,$816.2,4,2,1,421,7,Loyal
+TB-21250,Tim Brockman,350,7,"$1,602.4",1,4,2,142,7,At Risk
+TB-21280,Toby Braunhardt,584,6,"$2,198.5",1,3,3,133,7,At Risk
+TB-21355,Todd Boyes,147,5,$834.3,2,2,1,221,5,Lost
+TB-21400,Tom Boeckenhauer,203,7,"$9,134.0",2,4,5,245,11,At Risk
+TB-21520,Tracy Blumstein,108,9,"$4,737.5",2,5,5,255,12,At Risk
+TB-21595,Troy Blackwell,286,5,"$1,387.6",1,2,2,122,5,Lost
+TB-21625,Trudy Brown,31,9,"$2,797.7",4,5,4,454,13,Champions
+TC-20980,Tamara Chand,400,5,"$19,052.2",1,2,5,125,8,At Risk
+TC-21145,Theresa Coyne,107,1,"$1,038.3",2,1,2,212,5,Lost
+TC-21295,Toby Carlisle,28,8,"$4,266.8",4,4,4,444,12,Champions
+TC-21475,Tony Chapman,154,9,"$1,245.0",2,5,2,252,9,At Risk
+TC-21535,Tracy Collins,5,7,$742.6,5,4,1,541,10,Loyal
+TD-20995,Tamara Dahlen,38,9,"$1,434.6",4,5,2,452,11,Champions
+TG-21310,Toby Gnade,338,5,"$3,058.4",1,3,4,134,8,At Risk
+TG-21640,Trudy Glocke,115,4,"$2,074.7",2,2,3,223,7,Lost
+TH-21100,Thea Hendricks,345,5,"$2,422.8",1,3,3,133,7,At Risk
+TH-21115,Thea Hudgings,59,4,"$2,942.8",3,2,4,324,9,Loyal
+TH-21235,Tiffany House,118,8,"$1,022.2",2,4,2,242,8,At Risk
+TH-21550,Tracy Hopkins,73,7,"$4,234.1",3,4,4,344,11,Loyal
+TM-21010,Tamara Manning,104,8,"$2,955.2",2,4,4,244,10,At Risk
+TM-21490,Tony Molinari,131,3,"$1,094.7",2,1,2,212,5,Lost
+TN-21040,Tanja Norvell,91,7,"$3,130.2",3,4,4,344,11,Loyal
+TP-21130,Theone Pippenger,9,9,"$4,454.1",5,5,5,555,15,Champions
+TP-21415,Tom Prescott,105,5,"$5,329.0",2,3,5,235,10,At Risk
+TP-21565,Tracy Poddar,351,4,"$1,936.6",1,2,3,123,6,Lost
+TR-21325,Toby Ritter,194,5,$675.9,2,3,1,231,6,Lost
+TS-21085,Thais Sissman,358,2,$4.8,1,1,1,111,3,Lost
+TS-21160,Theresa Swint,505,6,"$2,163.6",1,3,3,133,7,At Risk
+TS-21205,Thomas Seio,199,7,"$5,371.1",2,4,5,245,11,At Risk
+TS-21340,Toby Swindell,227,5,$974.8,1,3,2,132,6,Lost
+TS-21370,Todd Sumrall,37,6,"$11,891.8",4,3,5,435,12,Champions
+TS-21430,Tom Stivers,173,5,"$2,054.1",2,3,3,233,8,At Risk
+TS-21505,Tony Sayre,12,6,"$2,243.3",5,3,3,533,11,Champions
+TS-21610,Troy Staebel,56,7,"$2,820.4",3,4,4,344,11,Loyal
+TS-21655,Trudy Schmidt,239,5,"$3,368.1",1,3,4,134,8,At Risk
+TT-21070,Ted Trevino,32,7,"$4,915.6",4,4,5,445,13,Champions
+TT-21220,Thomas Thornton,184,8,"$1,427.0",2,4,2,242,8,At Risk
+TT-21265,Tim Taslimi,407,3,$439.5,1,1,1,111,3,Lost
+TT-21460,Tonja Turnell,13,7,"$5,364.8",5,4,5,545,14,Champions
+TW-21025,Tamara Willingham,65,7,"$5,278.8",3,4,5,345,12,Loyal
+TZ-21580,Tracy Zic,36,4,"$1,707.3",4,2,2,422,8,Loyal
+VB-21745,Victoria Brennan,55,6,"$2,005.6",3,3,3,333,9,Loyal
+VD-21670,Valerie Dominguez,582,6,"$6,442.3",1,3,5,135,9,At Risk
+VF-21715,Vicky Freymann,14,5,$847.9,5,3,1,531,9,Loyal
+VG-21790,Vivek Gonzalez,155,6,$846.0,2,3,1,231,6,Lost
+VG-21805,Vivek Grady,287,5,$427.4,1,3,1,131,5,Lost
+VM-21685,Valerie Mitchum,55,7,"$2,454.9",3,4,3,343,10,Loyal
+VM-21835,Vivian Mathis,118,5,$380.7,2,3,1,231,6,Lost
+VP-21730,Victor Preis,31,3,$993.9,4,1,2,412,7,Loyal
+VP-21760,Victoria Pisteka,76,7,"$3,360.5",3,4,4,344,11,Loyal
+VS-21820,Vivek Sundaresam,222,4,"$1,056.0",2,2,2,222,6,Lost
+VT-21700,Valerie Takahito,1001,2,"$1,736.6",1,1,2,112,4,Lost
+VW-21775,Victoria Wilson,29,10,"$6,134.0",4,5,5,455,14,Champions
+WB-21850,William Brown,21,11,"$6,160.1",5,5,5,555,15,Champions
+XP-21865,Xylona Preis,44,11,"$2,374.7",4,5,3,453,12,Champions
+YC-21895,Yoseph Carroll,5,5,"$5,454.4",5,3,5,535,13,Champions
+YS-21880,Yana Sorensen,10,8,"$6,720.4",5,4,5,545,14,Champions
+ZC-21910,Zuschuss Carroll,55,13,"$8,025.7",3,5,5,355,13,Loyal
+ZD-21925,Zuschuss Donatelli,203,5,"$1,493.9",2,3,2,232,7,Lost
