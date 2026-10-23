@@ -1,12 +1,10 @@
 # Retail Sales & Customer Segmentation Analysis
 
-An end-to-end analysis of a real-world retail sales dataset, from data cleaning to SQL insights, RFM customer segmentation and a Power BI dashboard.
-
----
+An end-to-end data analytics project on a real-world retail sales dataset: cleaned the data, explored it, answered business questions in SQL, segment customers with RFM, and presented everything in a Power BI dashboard.
 
 ## Objective
 
-Find out **where revenue comes from, where profit is lost, and which customers matter most**, and turn the answers into clear actions for the business.
+Found out **where revenue comes from, where profit is lost, and which customers matter most**, and turn the answers into clear actions for the business.
 
 ## Scope
 
@@ -15,8 +13,6 @@ Find out **where revenue comes from, where profit is lost, and which customers m
 - **SQL business questions:** 12 queries using aggregation, CTEs and window functions
 - **Customer segmentation:** RFM scoring (Recency, Frequency, Monetary) into 4 segments
 - **Dashboard:** 3 Power BI pages with KPIs, filters and drill-downs
-
-Not in scope: forecasting and machine-learning models.
 
 ## Tools
 
